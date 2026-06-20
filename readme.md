@@ -26,7 +26,7 @@ Follow these steps to run this project in your local machine (VS Code):
 
 Open terminal in VS Code and run:
 
-git clone https://github.com/your-username/task-management-app.git
+git clone https://github.com/RahulKumarsingh2001/task-management-application-fastAPI.git
 
 cd task-management-app
 
